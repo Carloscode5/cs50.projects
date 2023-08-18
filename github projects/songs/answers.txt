@@ -1,0 +1,10 @@
+/*If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?*/
+
+Energetic and Bold
+
+
+/*Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?*/
+
+I think the entire basis of the questions are subjective and opinion based. Music touches on a personal level and it's almost for lack of a better word a drug and can bring
+feelings and moods out that buying something over the counter can't provide. Personally I feel this way when I listen to different genres it musters up different moods and
+takes you to different places.

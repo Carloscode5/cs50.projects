@@ -1,0 +1,4 @@
+Prompt user for height
+If height less than 1 or greater than 8 loop back to step one
+Generate 1 through height given
+Upon creation variable n, print n hashes following a new line

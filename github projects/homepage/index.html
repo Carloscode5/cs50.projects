@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+        <link href="styles.css" rel="stylesheet">
+        <title>Surf & Sunshine</title>
+        <style>
+          .image-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+          }
+
+          .image {
+            display: block;
+            width: 100%;
+            height: auto;
+          }
+
+          .text-overlay {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-90%, -67%);
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+          }
+        </style>
+        <style>
+          body {
+              margin: 0;
+              padding: 0;
+              font-family: 'Pacifico', cursive;
+          }
+
+          nav {
+              position: fixed;
+              top: 0;
+              left: 0;
+              width: 100%;
+              background-color: transparent;
+              box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+              z-index: 1000;
+              transition: background-color 0.3s ease-in-out;
+          }
+
+          nav ul {
+              list-style: none;
+              margin: 0;
+              padding: 0;
+              display: flex;
+              justify-content: space-around;
+              align-items: center;
+              height: 60px;
+          }
+
+          nav li {
+              padding: 10px;
+              transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+          }
+
+          nav li a {
+              text-decoration: none;
+              color: #333;
+          }
+
+          nav li:hover {
+              background-color: #f8f8f8;
+              color: #007BFF;
+          }
+      </style>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-light">
+            <div class="container-fluid">
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                  <a class="nav-link" href="index.html">Home</a>
+                  <a class="nav-link" href="surf.html">Surf</a>
+                  <a class="nav-link" href="sunshine.html">Sunshine</a>
+                  <a class="nav-link" href="contact.html">Contact</a>
+                </div>
+              </div>
+            </div>
+          </nav>
+
+          <div class="image-container">
+            <img src="https://images.squarespace-cdn.com/content/v1/614e22327fb0d14b0cef4521/a7dd1eb0-1eb8-47c9-8565-057044590af1/guillaume-marques-bnMPFPuSCI0-unsplash.jpeg" alt="Image">
+            <div class="text-overlay">
+              <header>
+                <h1>An Insider's Guide to my <span id="title">Surf & Sunshine</span> </h1>
+                <h6>by Carlos Valenzuela</h6>
+              </header>
+              <main>
+                <h6>.</h6>
+                <section>
+                  <h6>.</h6>
+                  <article>
+                    <h6>.</h6>
+                    <p><a href="https://en.wikipedia.org/wiki/Surfing" target="_blank">Surfing</a> in Southern
+                      California, often referred to as SoCal, is not merely a recreational activity; it becomes a
+                      soulful experience that centers the mind, body, and soul. As surfers ride the waves along the
+                      golden coastline, they are intimately connected with the rhythm of the ocean, finding a sense
+                      of calm and focus like no other. The repetitive motion of paddling and catching waves allows
+                      surfers to clear their minds and be fully present in the moment, leaving behind the worries of
+                      daily life. The physical demands of balancing on the board and riding the waves engage the body,
+                      promoting strength, flexibility, and improved overall fitness. The feeling of oneness with nature
+                      and the vastness of the ocean instills a profound sense of serenity, bringing harmony to the soul.
+                      For many, surfing in SoCal becomes a spiritual journey that nourishes the mind, rejuvenates the body,
+                      and elevates the soul to a place of blissful tranquility.
+                      </p>
+                  </article>
+                </section>
+                </main>
+                <footer><span id="footer">-CRV</span></footer>
+            </div>
+          </div>
+    </body>
+</html>

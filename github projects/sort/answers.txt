@@ -1,0 +1,6 @@
+sort1 uses: Bubble Sort
+How do you know?: When trying to sort sorted files it outperformed sort3 by a landslide, hence making it bubble sort.
+sort2 uses: Merge Sort
+How do you know?: Compared to sort1 & sort2 it was able to sort faster than either .
+sort3 uses: Selection Sort
+How do you know?: After process of elimination when compared to sort2 and sort1 it had the largest run-time when sorting numbers in all categories.
