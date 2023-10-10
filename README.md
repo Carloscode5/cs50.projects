@@ -1,5 +1,5 @@
-![THIS IS CS50](https://www.google.com/search?sca_esv=572049527&rlz=1C5CHFA_enUS1072US1072&sxsrf=AM9HkKnt0G02VBhQCE3NEea9rtE7RfmGzQ:1696894228933&q=harvard+cs50&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjTovLNj-qBAxXgJEQIHQE0AY8Q0pQJegQICxAB&biw=853&bih=644&dpr=2#imgrc=Ctj_Zgp8dEWKhM)
 # cs50.projects
+![This is CS50](https://github.com/Carloscode5/cs50.projects/assets/121002145/c7e40ea8-6ef4-4171-900d-f1fa9b08c334)
 
 # Description: 
 The following is a culmination of projects I have been completing as I slowly move the needle towards attaining my **CS50 Certificate**.
